@@ -7,7 +7,7 @@ Panagiotis Leftheriotis
 
 ## Contact
 p.leftheriotis@gmail.com
-
+<!--
 ## Contents
 - [Summary](#summary)
 - [Technologies Used](#technologies-used)
@@ -15,7 +15,7 @@ p.leftheriotis@gmail.com
 - [How to Run](#how-to-run)
 - [User Manual](#user-manual)
 - [References](#references)
-
+-->
 
 ## Summary
 
@@ -32,7 +32,7 @@ The resulting hotspots were also visualized to support interpretation.
 
 **Key terms:** hotspot analysis, spatiotemporal data, grid cells, 90th percentile, spatial autocorrelation, Getis-Ord Gi*
 
-
+<!--
 ## Technologies Used
 
 ## File Description
@@ -42,4 +42,4 @@ The resulting hotspots were also visualized to support interpretation.
 ## User Manual
 
 ## References
-
+-->
