@@ -25,7 +25,7 @@ The aim of this thesis is to analyze spatiotemporal datasets and highlight regio
 Two hotspot detection methods were implemented:
 
 - **90th-percentile method:** Detects high-density cells without considering information from neighboring cells.
-- **Modified Getis-Ord Gi\**:* ** Calculates spatial autocorrelation using only neighboring cells within a user-defined distance, based on the Chebyshev distance.
+- **Modified Getis-Ord Gi: ** Calculates spatial autocorrelation using only neighboring cells within a user-defined distance, based on the Chebyshev distance.
 
 The algorithm was implemented in **Python**, and an experimental evaluation was conducted to assess performance under various analysis parameters.  
 The resulting hotspots were also visualized to support interpretation.
