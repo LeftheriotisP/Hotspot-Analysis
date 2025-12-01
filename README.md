@@ -35,3 +35,11 @@ The resulting hotspots were also visualized to support interpretation.
 
 ## Technologies Used
 
+## File Description
+
+## How to Run
+
+## User Manual
+
+## References
+
